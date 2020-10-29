@@ -129,4 +129,4 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Mastermind game</span></h2>
           <h3> I programmed it to give you the computer code so you can quickly test if everything works properly. After the first playthrough it does not tell you the computer code </h3>
-        <iframe height="1000px" width="100%" src="https://repl.it/@rfanova/mastermind-game?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+       <iframe height="1000px" width="100%" src="https://repl.it/@rfanova/mastermind-game?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
